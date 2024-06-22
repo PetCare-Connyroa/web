@@ -1,0 +1,99 @@
+body{
+    background-color:#E5E5E5 ;
+    margin: 0;
+}
+header{
+     display: flex;
+     height:250px ;
+     align-items: center;
+     background-color: #BDDEFF;
+     padding: 30px;
+     font-size: 43px;
+     font-family: 'Myriad Pro';
+    
+}
+.logo{
+    display: flex  ;
+    text-align:center;
+}
+.logo img{
+    height: 700px;
+  
+}
+a{
+    color: black;
+}
+nav a{
+    font-weight: 300;
+    margin-left: 50px;
+}
+a:link{
+    color: rgb(0, 0, 0);
+}
+a:visited{
+    color: (#06b4ff);
+}
+a:hover{
+    color: #003CFC;
+}
+a:active{
+    color: aqua;
+}
+.veterinaria{
+    display: flex;
+
+}
+.Texto{
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+   
+    font-family: "Gadugi Bold";
+   
+}
+#Final{
+      display: flex;
+
+    }
+    
+     h2{
+        text-align: center;
+     }
+     .boton  {
+        background-color:#54AAED;
+        padding: 20px;
+        color:black;
+        text-decoration:none ;
+        text-align:center;
+        width: 30px;
+        margin-top: 50px;
+        font-size: 30px;
+        border-radius: 20px;
+        box-shadow:black;
+        font-size: 20px;
+        font-family: "Gadugi Bold";
+        
+       
+    }
+    #fondo{
+        background-image: url(../img/Huesitos.jpg);
+        padding: 60px 0;
+         text-align: center;
+    }
+
+    footer{
+        height: 200px;
+        background-color:#BDDEFF;
+        text-align: center; 
+         
+     }
+     .redes{
+        height: 150px;
+     
+     }
+     .copy{
+        text-align: center;
+        font-size: 20px;
+        margin: 0;
+     }
+    

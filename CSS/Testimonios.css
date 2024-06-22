@@ -1,0 +1,109 @@
+body{
+    
+    background-color:white ;
+    margin: 0;
+}
+
+    header{
+        display: flex;
+        height:250px ;
+        align-items: center;
+        background-color: #BDDEFF;
+        padding: 30px;
+        font-size: 43px;
+        font-family: 'Myriad Pro';
+    
+}
+.logo{
+    display: flex  ;
+    text-align:center;
+}
+.logo img{
+    height: 700px;
+  
+}
+a{
+    color: black;
+}
+nav a{
+    font-weight: 300;
+    margin-left: 50px;
+}
+a:link{
+    color: rgb(0, 0, 0);
+}
+a:visited{
+    color: (#06b4ff);
+}
+a:hover{
+    color: #003CFC;
+}
+a:active{
+    color: aqua;
+}
+
+.section{
+    display: flex;
+}
+.maria{
+    background-color:#EBE4F4 ;
+    display: flex;
+    justify-content:space-between ;
+    padding: 20px;
+    font-size: 25px;
+   
+}
+
+.Fernando{
+    background-color:#D8E8F2 ;
+    display: flex;
+    justify-content:space-between ;
+    padding: 20px;
+    font-size: 25px;
+   
+}
+.camila{
+    background-color:#EBE4F4 ;
+    display: flex;
+    justify-content:space-between ;
+    padding: 20px;
+    font-size: 25px;}
+
+    .Andres{
+        background-color:#D8E8F2 ;
+        display: flex;
+        justify-content:space-between ;
+        padding: 20px;
+        font-size: 25px;
+    }
+    h1{
+        text-align: center;
+    }
+    footer{
+        height: 200px;
+        background-color:#BDDEFF;
+        text-align: center; 
+        padding: 0;
+        margin: 0%;
+         
+     }
+
+     footer{
+        height: 200px;
+        background-color:#BDDEFF;
+        text-align: center; 
+        margin: 0;
+        padding: 0;
+         
+     }
+     .redes{
+        height: 150px;
+     
+     }
+     .copy{
+        text-align: center;
+        font-size: 20px;
+        margin: 0;
+     }
+    
+   
